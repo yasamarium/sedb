@@ -29,28 +29,28 @@
     "userId": "usr_mul15yjn_gnoqr",
     "username": "asc",
     "position": {
-      "x": 1.14,
-      "y": 44.99,
-      "z": -5.54,
-      "yaw": -0.398,
-      "pitch": -0.594
+      "x": -9.94,
+      "y": 46.96,
+      "z": 6.27,
+      "yaw": -11.302,
+      "pitch": -0.263
     },
     "inventory": [
       1,
-      2,
-      3,
-      4,
-      5,
-      7,
-      6,
+      null,
+      20,
       9,
+      null,
+      137,
+      19,
+      121,
       213
     ],
     "health": 20,
     "hunger": 20,
     "gameMode": "creative",
-    "playTimeMinutes": 6,
+    "playTimeMinutes": 9,
     "lastRoomId": 1,
-    "updatedAt": "2026-09-28T09:15:23.371Z"
+    "updatedAt": "2026-09-28T12:34:26.053Z"
   }
 ]
