@@ -1,5 +1,27 @@
 [
   {
+    "id": "act_mul15yjo_x7lc",
+    "userId": "usr_mul15yjn_gnoqr",
+    "username": "asc",
+    "type": "player_registered",
+    "description": "Created new player identity: asc",
+    "details": {
+      "username": "asc",
+      "userId": "usr_mul15yjn_gnoqr",
+      "spawnPos": {
+        "x": 7.5,
+        "y": 28,
+        "z": 3.5
+      }
+    },
+    "position": {
+      "x": 7.5,
+      "y": 28,
+      "z": 3.5
+    },
+    "timestamp": "2026-09-28T09:13:47.556Z"
+  },
+  {
     "timestamp": "2026-09-28T09:06:37.212Z",
     "username": "alex",
     "action": "world_checkpoint",
