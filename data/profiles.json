@@ -4,7 +4,7 @@
     "username": "alex",
     "position": {
       "x": 7.5,
-      "y": 28.0,
+      "y": 28,
       "z": 3.5
     },
     "inventory": [
@@ -24,5 +24,33 @@
     "playTimeMinutes": 15,
     "lastRoomId": 1,
     "updatedAt": "2026-09-23T18:00:00.000Z"
+  },
+  {
+    "userId": "usr_mul15yjn_gnoqr",
+    "username": "asc",
+    "position": {
+      "x": 7.5,
+      "y": 28,
+      "z": 3.5,
+      "yaw": 0,
+      "pitch": 0
+    },
+    "inventory": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      6,
+      9,
+      213
+    ],
+    "health": 20,
+    "hunger": 20,
+    "gameMode": "creative",
+    "playTimeMinutes": 1,
+    "lastRoomId": 1,
+    "updatedAt": "2026-09-28T09:13:51.967Z"
   }
 ]
