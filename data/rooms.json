@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sanctuary Hub",
+    "mode": "creative",
+    "maxPlayers": 16,
+    "currentPlayers": 0,
+    "description": "Community Creative Sanctuary Hub with AI Sanctuary builds."
+  },
+  {
+    "id": 2,
+    "name": "Survival Frontier",
+    "mode": "survival",
+    "maxPlayers": 16,
+    "currentPlayers": 0,
+    "description": "Hardcore Survival Frontier, shared mining shafts and mob defense."
+  },
+  {
+    "id": 3,
+    "name": "Builder's Paradise",
+    "mode": "creative",
+    "maxPlayers": 16,
+    "currentPlayers": 0,
+    "description": "Infinite Creative Canvas for megastructures and architecture."
+  },
+  {
+    "id": 4,
+    "name": "Cyber City",
+    "mode": "creative",
+    "maxPlayers": 16,
+    "currentPlayers": 0,
+    "description": "Futuristic Cyberpunk Nexus with Obsidian towers and Amethyst conduits."
+  },
+  {
+    "id": 5,
+    "name": "Anarchy Wilds",
+    "mode": "survival",
+    "maxPlayers": 16,
+    "currentPlayers": 0,
+    "description": "High-Intensity PvP & TNT Blast Playground."
+  }
+]

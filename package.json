@@ -1,0 +1,21 @@
+{
+  "name": "square-era-database",
+  "version": "1.0.0",
+  "description": "Square Era central persistence repository for PostgreSQL and JSON collections",
+  "main": "scripts/sync_data.js",
+  "scripts": {
+    "migrate": "node scripts/migrate.js",
+    "sync": "node scripts/sync_data.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "keywords": [
+    "square-era",
+    "postgresql",
+    "database",
+    "persistence"
+  ],
+  "author": "Square Era",
+  "license": "MIT"
+}
