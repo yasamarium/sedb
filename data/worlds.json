@@ -9,6 +9,33 @@
     "activeWorldId": "world_default",
     "worldsList": [
       {
+        "id": "world_mul8brna_0lsr",
+        "name": "World 2",
+        "mode": "creative",
+        "seed": "default",
+        "modifications": {},
+        "position": {
+          "x": 0.5,
+          "y": 35,
+          "z": 0.5,
+          "yaw": 0,
+          "pitch": 0
+        },
+        "inventory": [
+          1,
+          null,
+          20,
+          9,
+          null,
+          137,
+          19,
+          121,
+          213
+        ],
+        "createdAt": "2026-09-28T12:34:15.862Z",
+        "updatedAt": "2026-09-28T12:34:15.862Z"
+      },
+      {
         "id": "world_default",
         "name": "asc's Realm",
         "mode": "creative",
@@ -78,7 +105,7 @@
           213
         ],
         "createdAt": "2026-09-28T12:34:00.630Z",
-        "updatedAt": "2026-09-28T12:34:00.630Z"
+        "updatedAt": "2026-09-28T12:34:15.863Z"
       }
     ],
     "modifications": {
@@ -127,6 +154,6 @@
       "26,31,-10": 0,
       "27,26,-8": 4
     },
-    "updatedAt": "2026-09-28T12:34:00.630Z"
+    "updatedAt": "2026-09-28T12:34:15.863Z"
   }
 }
